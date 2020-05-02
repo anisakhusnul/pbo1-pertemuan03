@@ -19,6 +19,3 @@ public class Operatorbinary {
         System.out.println(9 % 2);
     }
 }
-
-
-}
